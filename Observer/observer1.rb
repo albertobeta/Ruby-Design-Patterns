@@ -23,7 +23,7 @@ end
 
 class InventoryChecker
   def update(bottle, number_of_bottles)
-    puts "An order of #{number_of_bottles} was placed (#{bottle.number_of_bottles} bottles left in the cellar)"
+    puts "An order of #{number_of_bottles} was placed! (#{bottle.number_of_bottles} bottles left in the cellar)"
     if bottle.number_of_bottles <= bottle.inventory_threshold
     puts "You need to contact the wine provider and place a new order"
     end

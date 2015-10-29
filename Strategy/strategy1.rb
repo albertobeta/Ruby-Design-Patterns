@@ -49,6 +49,6 @@ end
 order = Order.new(StandardPizza.new)
 order.submit_order
 
-order.selection  = GlutenFreePizza.new
+order.selection = GlutenFreePizza.new
 order.submit_order
 

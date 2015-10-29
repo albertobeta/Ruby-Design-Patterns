@@ -1,8 +1,6 @@
 #Inventory log
 #without Singleton pattern
 
-require 'singleton'
-
 class Inventory
   
   def initialize(log_file_name)
