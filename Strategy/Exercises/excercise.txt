@@ -1,4 +1,3 @@
-diff
-1. improve the code. Text should be in a separate class
-2. step 1 + add new food products with their own ingredients 
-3. step 1 and 2 + make an inventory with ingredients to count remaining ingredients
+1. Avoid the repetition of redundant text in the strategy classes
+2. Step 1 + add new food products with their own ingredients 
+3. Step 1 and 2 + make a real-time inventory of the ingredients 

@@ -1,1 +1,1 @@
-1. merge the inventory log (singleton pattern) with the actual wine orders (observer pattern)
+1. Merge the inventory log (singleton pattern) with the actual wine orders (observer pattern)
