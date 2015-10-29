@@ -1,0 +1,4 @@
+diff
+1. improve the code. Text should be in a separate class
+2. step 1 + create more ingredients
+3. step 1 and 2 + make an inventory with ingredients to count remaining ingredients

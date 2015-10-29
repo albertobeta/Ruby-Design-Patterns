@@ -1,0 +1,1 @@
+1. Separate the inventory checker from the new order notification (i.e. 2 observers)
